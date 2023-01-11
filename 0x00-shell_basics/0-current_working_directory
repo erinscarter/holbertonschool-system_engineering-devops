@@ -1,2 +1,2 @@
 #!/bin/bash
-v_path=$PWD && echo v_path
+echo $PWD
